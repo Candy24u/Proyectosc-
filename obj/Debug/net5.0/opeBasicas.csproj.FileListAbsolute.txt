@@ -1,0 +1,16 @@
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\bin\Debug\net5.0\opeBasicas.exe
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\bin\Debug\net5.0\opeBasicas.deps.json
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\bin\Debug\net5.0\opeBasicas.runtimeconfig.json
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\bin\Debug\net5.0\opeBasicas.runtimeconfig.dev.json
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\bin\Debug\net5.0\opeBasicas.dll
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\bin\Debug\net5.0\ref\opeBasicas.dll
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\bin\Debug\net5.0\opeBasicas.pdb
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.csprojAssemblyReference.cache
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.AssemblyInfoInputs.cache
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.AssemblyInfo.cs
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.dll
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\ref\opeBasicas.dll
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.pdb
+C:\Users\Jazmi\Documents\PROYECTOS Csharp\opeBasicas\obj\Debug\net5.0\opeBasicas.genruntimeconfig.cache
